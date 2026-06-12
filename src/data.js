@@ -69,5 +69,13 @@ export const apps = [
     description: "캐릭터 스펙업 효율",
     url: "https://loaup.com/",
     image: "/images/specup.png"
+  },
+
+  {
+    id: 9,
+    name: "로아 인벤",
+    description: "커뮤니티",
+    url: "https://lostark.inven.co.kr/",
+    image: "/images/inven.png"
   }
 ];
