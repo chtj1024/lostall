@@ -5,7 +5,7 @@ function App() {
   return (
     <>
 
-      <h1>내 즐겨찾기</h1>
+      <h1>로아 외부 사이트 모음</h1>
 
 
     <div className="container">

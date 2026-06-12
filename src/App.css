@@ -21,6 +21,8 @@ body{
 
 h1{
   text-align:center;
+  color:black;
+  font-weight: bold;
 }
 
 .card{
