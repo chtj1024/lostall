@@ -77,5 +77,13 @@ export const apps = [
     description: "커뮤니티",
     url: "https://lostark.inven.co.kr/",
     image: "/images/inven.png"
+  },
+
+  {
+    id: 10,
+    name: "로아도구",
+    description: "생활 제작 효율 계산",
+    url: "https://loatool.taeu.kr/calculator/craft",
+    image: "/images/farming.png"
   }
 ];
