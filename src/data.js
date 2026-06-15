@@ -85,5 +85,13 @@ export const apps = [
     description: "생활 제작 효율 계산",
     url: "https://loatool.taeu.kr/calculator/craft",
     image: "/images/farming.png"
+  },
+
+  {
+    id: 11,
+    name: "알로아",
+    description: "아크그리드 최적화",
+    url: "https://aloa.gg/ko/arkgrid",
+    image: "/images/arkgrid.png"
   }
 ];
