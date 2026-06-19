@@ -10,7 +10,7 @@ export const apps = [
   {
     id: 2,
     name: "로아랩",
-    description: "경매 계산기",
+    description: "쌀산기",
     url: "https://lo4.app/tools/auction-calculator",
     image: "/images/auction.png"
   },
