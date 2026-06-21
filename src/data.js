@@ -87,11 +87,11 @@ export const apps = [
     image: "/images/farming.png"
   },
 
-  {
-    id: 11,
-    name: "알로아",
-    description: "아크그리드 최적화",
-    url: "https://aloa.gg/ko/arkgrid",
-    image: "/images/arkgrid.png"
-  }
+  // {
+  //   id: 11,
+  //   name: "알로아",
+  //   description: "아크그리드 최적화",
+  //   url: "https://aloa.gg/ko/arkgrid",
+  //   image: "/images/arkgrid.png"
+  // }
 ];
