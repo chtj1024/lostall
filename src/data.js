@@ -41,9 +41,9 @@ export const apps = [
 
   {
     id: 6,
-    name: "아이스펭",
+    name: "로아또",
     description: "재련 및 상재 효율",
-    url: "https://loa.icepeng.com/refining",
+    url: "https://loatto.kr/standard-refining",
     image: "/images/reforge.png"
   },
 
